@@ -3,7 +3,7 @@
 <p> I along with my teamate Jean King(jean@bridgelearning.org) worked hard on it.</p></br>
 <p> It is a code geass fan website, the text content is a bit on the sparse side but we focused on other features such as a middleware to reroute users for using certain aliases. </p> </br>
 <p>
-  Below is the requirements document we wrote.
+  Below is the requirements document we wrote. The tables are bit messy for a bit more clarity check the pdf <a href='https://github.com/Dmarabito/sa-it2030-fa24-fp-team-3-it2030-fa24-main/blob/main/AspNetFinalDocumentRequirements.pdf'>AspNetFinalDocumentRequirements.pdf</a>.
 </p>
 <div>
   Project Zero 

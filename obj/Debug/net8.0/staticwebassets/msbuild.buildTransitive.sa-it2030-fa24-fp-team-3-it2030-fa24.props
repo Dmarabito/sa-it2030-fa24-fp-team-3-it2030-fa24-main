@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\sa-it2030-fa24-fp-team-3-it2030-fa24.props" />
+</Project>

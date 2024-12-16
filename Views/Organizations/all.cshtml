@@ -1,0 +1,64 @@
+﻿﻿@using sa_it2030_fa24_fp_team_3_it2030_fa24.Models
+@using System.Reflection
+@using sa_it2030_fa24_fp_team_3_it2030_fa24.Controllers
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model IEnumerable<Organization>
+
+@*
+*@
+@{
+    Type OrgControllerType = typeof(OrganizationsController);
+    MethodInfo[] OrgControllerMethods = OrgControllerType.GetMethods();
+    List<string> ActionList = new List<string>();
+    foreach (MethodInfo Minfo in OrgControllerMethods)
+    {
+        ActionList.Add(Minfo.Name);
+    }
+}
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <style>
+        html {
+            min-height: 100%;
+            min-width: 100%;
+        }
+        body {
+            background-image: linear-gradient(black,red);
+            background-repeat:no-repeat;
+            background-size: cover;
+        }
+
+        div {
+            padding-top: 50px;
+            padding-bottom: 50px;
+            text-align: center;
+            background-color: rgb(31, 28, 197, 0.50);
+        }
+
+        a, p {
+            color: red;
+        }
+    </style>
+    <div>
+    <a asp-action="home" asp-controller="home">Home</a> <br/>
+    @foreach (Organization Org in Model)
+    {
+        @if (ActionList.Contains((Org.name).Replace(" ", "_")))
+        {
+            <a asp-action=@((Org.name).Replace(" ","_") )>@Org.name </a>
+            <br />
+        }
+        else
+        {
+            <p>@(Org.name) : page does not yet exist</p>
+            <br />
+        }
+    }
+    </div>
+    @await Component.InvokeAsync("SideBar")
+</body>
+</html>
+
+

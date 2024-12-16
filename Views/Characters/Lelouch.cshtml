@@ -1,0 +1,76 @@
+@using sa_it2030_fa24_fp_team_3_it2030_fa24.Models
+@using sa_it2030_fa24_fp_team_3_it2030_fa24.Components
+@addTagHelper *, sa_it2030_fa24_fp_team_3_it2030_fa24
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model Character?
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@((Model?.name) ?? "Character Details")</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            min-height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .content {
+            flex: 1;
+            padding: 20px;
+        }
+
+        .character-details {
+            display: flex;
+            gap: 20px;
+        }
+
+        .character-image {
+            max-width: 400px;
+            height: 300px;
+            border-radius: 10px;
+            padding-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div class="character-details">
+            <div>
+                <h1 style="color: #333; margin-top: 0; padding-top: 50px;">@((Model?.name) ?? "Character Name Not Found")</h1>
+                <p style="color: #555; line-height: 1.6;">@((Model?.about) ?? "Character About Not Found")</p>
+                <p style="color: #555; line-height: 1.6;">@((Model?.powers) ?? "Character Powers Not Found")</p>
+                <div>
+                    @await Component.InvokeAsync("MessengerComponent", new String[]{"Lelouch", "Characters"})
+                </div>
+            </div>
+        </div>
+
+        <!-- Character Images -->
+        <img src="https://howanimechangedmylife.wordpress.com/wp-content/uploads/2013/08/prelude-to-the-sacrifice.jpg"
+             alt="Character Image"
+             class="character-image" />
+
+        <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/Lelouch-Zero.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5"
+             alt="Character Image"
+             class="character-image" />
+
+        <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/01/Lelouch-loves-chess-Cropped.jpg?q=50&fit=crop&w=825&dpr=1.5"
+             alt="Character Image"
+             class="character-image" />
+
+        <!-- Character Description -->
+        <p style="color: #555; line-height: 1.6;">Lelouch is a prideful and calculating strategic mastermind. He sets out to make a better world for his sister and avenge his mother by destroying the Britannian Empire through any means necessary (mentality: the ends justify the means).</p>
+    </div>
+
+    @await Component.InvokeAsync("SideBar")
+</body>
+</html>

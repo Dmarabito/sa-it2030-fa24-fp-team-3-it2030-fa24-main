@@ -1,0 +1,47 @@
+﻿@using sa_it2030_fa24_fp_team_3_it2030_fa24.Models
+@using sa_it2030_fa24_fp_team_3_it2030_fa24.Components
+@addTagHelper *, sa_it2030_fa24_fp_team_3_it2030_fa24
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Organization?
+@{
+}
+<!DOCTYPE html>
+<html>
+<body>
+    <style>
+        html {
+            min-height: 100%;
+            min-width: 100%;
+        }
+        body {
+            background-image: linear-gradient(black,red);
+            background-repeat:no-repeat;
+            background-size: cover;
+        }
+
+        div {
+            padding-top: 50px;
+            padding-bottom: 50px;
+            text-align: center;
+            background-color: rgb(31, 28, 197, 0.50);
+        }
+
+        a, p {
+            color: red;
+        }
+    </style>
+    <div>
+    <h1>@((Model?.name) ?? "Organization Name Not Found")</h1>
+    <h2>Led by <a asp-controller="Characters" asp-action=@(Model?.Leader?.name)>@((Model?.Leader?.name) ?? "Organization Leader Not Found")</a></h2>
+    <p>@((Model?.about) ?? "Organization about Not Found")</p>
+    </div>
+    @await Component.InvokeAsync("SideBar")
+    
+    @await Component.InvokeAsync("MessengerComponent", new String[] { "Black_Knights", "Organizations" })
+</body>
+</html>

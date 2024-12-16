@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = sa_it2030_fa24_fp_team_3_it2030_fa24
+build_property.RootNamespace = sa_it2030_fa24_fp_team_3_it2030_fa24
+build_property.ProjectDir = D:\DCoding\C#\aspNet\FinalProject\sa-it2030-fa24-fp-team-3-it2030-fa24\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DCoding\C#\aspNet\FinalProject\sa-it2030-fa24-fp-team-3-it2030-fa24
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Characters/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Characters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Characters/Lelouch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xMZWxvdWNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Home/Help.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWxwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Organizations/all.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemF0aW9uc1xhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Organizations/Black_Knights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnYW5pemF0aW9uc1xCbGFja19LbmlnaHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Shared/Components/MessengerComponent/Messenger.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVzc2VuZ2VyQ29tcG9uZW50XE1lc3Nlbmdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DCoding/C\#/aspNet/FinalProject/sa-it2030-fa24-fp-team-3-it2030-fa24/Views/Shared/Components/SideBar/SideBarView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2lkZUJhclxTaWRlQmFyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

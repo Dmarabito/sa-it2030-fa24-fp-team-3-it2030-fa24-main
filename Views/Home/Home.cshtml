@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+}
+<html>
+<body>
+    <style>
+        body {
+           background-image : linear-gradient(black,red);
+        }
+        div {
+            padding-top:50px;
+            padding-bottom:50px;
+            text-align:center;
+            background-color:rgb(31, 28, 197, 0.50);
+        }
+        a {
+            color:red;
+        }
+    </style>
+    <h1>Project Zero</h1>
+    <div>
+        <a asp-controller="Characters" asp-action="all">Characters</a> <br />
+        <a asp-controller="Organizations" asp-action="all">Organizations</a>
+    </div>
+    @await Component.InvokeAsync("SideBar")
+</body>
+</html>

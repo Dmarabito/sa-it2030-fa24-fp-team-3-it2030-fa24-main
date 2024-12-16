@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\organizations\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\organizations\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\organizations\\black_knights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\organizations\\black_knights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\characters\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\characters\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\shared\\components\\messengercomponent\\messenger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\shared\\components\\messengercomponent\\messenger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\characters\\lelouch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\characters\\lelouch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\components\\messengercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:components\\messengercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\shared\\components\\sidebar\\sidebarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\shared\\components\\sidebar\\sidebarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\views\\characters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:views\\characters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\components\\sidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:components\\sidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\custommiddleware\\aliasmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:custommiddleware\\aliasmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\migrations\\20241205202609_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:migrations\\20241205202609_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|d:\\dcoding\\c#\\aspnet\\finalproject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED0F5EDD-291A-464F-A310-47220B2BF6A6}|sa-it2030-fa24-fp-team-3-it2030-fa24.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SideBarView.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Shared\\Components\\SideBar\\SideBarView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\SideBar\\SideBarView.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Shared\\Components\\SideBar\\SideBarView.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\SideBar\\SideBarView.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:35:57.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lelouch.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Characters\\Lelouch.cshtml",
+              "RelativeDocumentMoniker": "Views\\Characters\\Lelouch.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Characters\\Lelouch.cshtml",
+              "RelativeToolTip": "Views\\Characters\\Lelouch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:49:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Messenger.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Shared\\Components\\MessengerComponent\\Messenger.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\MessengerComponent\\Messenger.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Shared\\Components\\MessengerComponent\\Messenger.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\MessengerComponent\\Messenger.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T15:46:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Help.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Home\\Help.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Help.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Home\\Help.cshtml",
+              "RelativeToolTip": "Views\\Home\\Help.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:35:46.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Characters\\All.cshtml",
+              "RelativeDocumentMoniker": "Views\\Characters\\All.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Characters\\All.cshtml",
+              "RelativeToolTip": "Views\\Characters\\All.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T11:49:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Characters\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Characters\\Create.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Characters\\Create.cshtml",
+              "RelativeToolTip": "Views\\Characters\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:27:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Home.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T18:01:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "all.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Organizations\\all.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizations\\all.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Organizations\\all.cshtml",
+              "RelativeToolTip": "Views\\Organizations\\all.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T18:19:09.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessengerComponent.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Components\\MessengerComponent.cs",
+              "RelativeDocumentMoniker": "Components\\MessengerComponent.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Components\\MessengerComponent.cs",
+              "RelativeToolTip": "Components\\MessengerComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:14:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Black_Knights.cshtml",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Organizations\\Black_Knights.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizations\\Black_Knights.cshtml",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Views\\Organizations\\Black_Knights.cshtml",
+              "RelativeToolTip": "Views\\Organizations\\Black_Knights.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:42:19.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "Models\\Organization.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\Organization.cs",
+              "RelativeToolTip": "Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:12:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CharactersController.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Controllers\\CharactersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CharactersController.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Controllers\\CharactersController.cs",
+              "RelativeToolTip": "Controllers\\CharactersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:40:53.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SideBar.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Components\\SideBar.cs",
+              "RelativeDocumentMoniker": "Components\\SideBar.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Components\\SideBar.cs",
+              "RelativeToolTip": "Components\\SideBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:24:45.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:58:09.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrganizationsController.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Controllers\\OrganizationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrganizationsController.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Controllers\\OrganizationsController.cs",
+              "RelativeToolTip": "Controllers\\OrganizationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:47:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AliasMiddleware.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\CustomMiddleware\\AliasMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomMiddleware\\AliasMiddleware.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\CustomMiddleware\\AliasMiddleware.cs",
+              "RelativeToolTip": "CustomMiddleware\\AliasMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:13:21.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Models\\Character.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\Character.cs",
+              "RelativeToolTip": "Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:18:59.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:15:19.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:51:52.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:02:10.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:58:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T20:49:06.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:40:08.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241205202609_Initial.Designer.cs",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Migrations\\20241205202609_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241205202609_Initial.Designer.cs",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\Migrations\\20241205202609_Initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241205202609_Initial.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:39:58.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DCoding\\C#\\aspNet\\FinalProject\\sa-it2030-fa24-fp-team-3-it2030-fa24\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T16:47:30.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
